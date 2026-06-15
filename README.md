@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**mainacollinschege/mainacollinschege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Languages and Tools
 
-Here are some ideas to get you started:
+    Programming Languages: Python, SQL (PostgreSQL, MySQL, ClickHouse), NoSQL (MongoDB).
+    Data Analysis & Visualization:
+        Libraries: Pandas, NumPy, SciPy, Statsmodels, Pingouin, Plotly, Matplotlib, Seaborn.
+        Tools & Frameworks: Dash, Power BI, Tableau, Redash, DataLens, Superset.
+    Big Data & Distributed Computing: Apache Hadoop, Apache Spark, Apache Kafka, Apache Airflow, S3
+    Machine learning and AI: Scikit-learn, MLlib.
+    Time Series Forecasting: Facebook Prophet, Uber Orbit.
+    Natural Language Processing: NLTK, SpaCy, TextBlob.
+    Web scraping: BeautifulSoup, Selenium, Scrapy.
+    DevOps: Linux, Git, Docker.
+    IDEs: VS Code, Google Colab, Jupyter Notebook, Zeppelin, PyCharm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python  Pandas  NumPy  Plotly  PostgreSQL  MySQL  MongoDB  Sklearn  VS Code  Jupyter  Linux  Git  Docker  Airflow  Hadoop  Spark  Kafka  
